@@ -21,7 +21,7 @@ cataract-classification/
 ├── scripts/
 │   └── main.py             # Main entry point with CLI
 │
-├── data/                   # Your dataset goes here
+├── data/                   # kaggle dataset goes here
 │   ├── 1_normal/
 │   ├── 2_cataract/
 │   ├── 3_retina/           # diabetic retinopathy images
