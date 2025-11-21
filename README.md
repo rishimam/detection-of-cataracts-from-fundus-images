@@ -55,7 +55,7 @@ cd cataract-classification
 # Or just download and extract the folder
 ```
 
-### 2. Create Virtual Environment (Recommended)
+### 2. Create Virtual Environment 
 
 ```bash
 # Using conda
@@ -168,7 +168,10 @@ data/
 │   ├── image001.jpg
 │   ├── image002.jpg
 │   └── ...
-└── 3_retina/       (optional, treated as normal)
+├── 3_retina/       (optional, treated as normal)
+│   ├── image001.jpg
+│   ├── image002.jpg
+└── 4_glaucoma/       (optional, treated as normal)
     ├── image001.jpg
     └── ...
 ```
