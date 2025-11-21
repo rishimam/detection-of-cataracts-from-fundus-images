@@ -49,7 +49,7 @@ Retrieved from https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-clas
 
 ```bash
 # If using git
-git clone <repo-url>
+git clone <https://github.com/rishimam/detection-of-cataracts-from-fundus-images.git>
 cd cataract-classification
 
 # Or just download and extract the folder
